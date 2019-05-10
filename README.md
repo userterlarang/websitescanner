@@ -6,8 +6,8 @@ Thanks for : 4L1_G4NT3NG | RIZWANDI | ACT |
 
 
  # Run webscan
-     chmod +x myself.sh
-     ./myself.sh
+     chmod +x webscan.sh
+     ./webscan.sh
 
 
 # Follow on Instagram
